@@ -1,0 +1,133 @@
+
+body{
+    overflow-x: hidden;
+}
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+.img-header{
+  text-align: center; 
+}
+.text-header{
+    font-style: italic;
+    color: aqua;
+}
+.row-content{
+    margin: 0;
+}
+.text-header h2{
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+.search-header{
+    margin-top: 60px;
+}
+.nav-items ul{
+  /* margin-left: 368px; */
+   margin-left: 35%; 
+
+  
+
+}
+.img-background img{
+    width: 100%;
+    padding-right: 110px;
+    height: 420px;
+}
+.content-background{
+   margin-left: -125px;
+}
+.content-background h2{
+    color: #0FC1C5;
+    margin-right: -90px;
+    margin-left: 12px;
+    margin-top: -2px;
+    margin-bottom: 20px;
+}
+.content-background p{
+  text-align: justify;
+  line-height: 1.6;
+  width: 124%;
+  font-size: 20px;
+
+}
+.send{
+    background-color: #ED8116;
+}
+.tour-navbar{
+    padding: 130px;
+    margin-top: -152px;
+    margin-left: 130px;
+    width: 33%;
+
+}
+.tour-navbar h2{
+    color: #0FC1C5;
+
+}
+.sub-content{
+    color: #0FC1C5;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.img-famous img{
+    width: 100%;
+    height: 300px;
+
+}
+.last-content img{
+    width: 73%;
+    height: 300px;
+    padding-top: 30px;
+}
+
+.last-content.text h2{
+    color:#73AD00;
+
+}
+.last-content.text{
+    margin-left: -128px;
+    margin-top: 36px;
+}
+.last-content.text p{
+    font-size: 20px;
+    width: 175%;
+    text-align: justify;
+}
+.last-content.price{
+    width: 10%;
+    margin-left: 450px;
+    margin-top: 82px;
+}
+
+.last-content.price h4{
+    color: #ED8116;
+    margin-left: 1.5px;
+    
+
+}
+.last-content.price p{
+    background-color: #0FC1C5;
+    padding: 12px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer{
+    margin-top: 30px;
+}
+.content-footer{
+    text-align: center;
+    background-color: #0FC1C5;
+    color: #fff;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    
+}
+
